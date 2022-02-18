@@ -1,0 +1,28 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "versionNumber": "1.0.0.NEXT",
+      "versionName": "Version 1.0",
+      "package": "fflib_extension",
+      "dependencies": [
+        {
+          "package": "fflib_mocks@1.0.0.0",
+          "subscriberPackageVersionId" : "04t1i000001K3MlAAK"
+        },
+        {
+          "package": "fflib_common@1.0.0.0",
+          "subscriberPackageVersionId" : "04t1i000001K3MqAAK"
+        }
+      ]
+    }
+  ],
+  "namespace": "fflib01",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "53.0",
+  "packageAliases": {
+    "fflib_mocks@1.0.0.0" : "04t1i000001K3MlAAK",
+    "fflib_common@1.0.0.0" : "04t1i000001K3MqAAK"
+  }
+}
