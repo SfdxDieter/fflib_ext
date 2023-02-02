@@ -20,7 +20,7 @@
   ],
   "namespace": "fflib01",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "53.0",
+  "sourceApiVersion": "56.0",
   "packageAliases": {
     "fflib_mocks@1.0.0.0" : "04t1i000001K3MlAAK",
     "fflib_common@1.0.0.0" : "04t1i000001K3MqAAK"
