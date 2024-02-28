@@ -25,4 +25,7 @@
     <orderEntry type="jdk" jdkName="IlluminatedCloud (fflib_ext/fflibDevOrg)" jdkType="IlluminatedCloud" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="e8714a25-4d40-499b-b9e4-8df5fc87628e" />
+  </component>
 </module>
